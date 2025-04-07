@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PESCA DO BAY</title>
+    <limk rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style type="text/css">
+        .body {
+            font-family: 'radiante', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: f4f4f4;
+            color:  #FFFF00;
+
+        }
+
+        .header {
+            background-color:   #FFFF00;
+            color:  #FF4500  ;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .nav {
+            background-color:       #FF8C00   ;
+            overflow: hidden;
+        }
+
+        .nav a {
+            float: left;
+            display: block;
+            color:      #FFFF00;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 16px;
+
+        }
+
+        .nav hover {
+            background-color: #800000;
+            color: #800000;
+        }
+
+        .content {
+            padding: 20px;
+            background-color:   #FFA500;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0, 1);
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section h2 {
+            color: #DC143C;
+            border-bottom: 2px solid    #FFFF00;
+            padding-bottom: 10px;
+        }
+
+        .section img {
+            max-width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #CCC;
+            border-radius: 4px;
+        }
+
+        .contact-form input, .contact-form textarea{
+            width: 98%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #CCC;
+            border-radius: 8px;
+        }
+
+        .contact-form button {
+            background-color:   #FFFF00 ;
+            color:  #FF4500;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .contact-form button:hover {
+            background-color:#FF0000;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+        }
+
+        .contact-info p {
+            margin: 5px 0;
+        }
+
+        .footer {
+            background-color:   #FF0000;
+            color: #FFFF00;
+            text-align: center;
+            padding: 5px;
+            position: fixed; 
+            bottom: 0;
+            width: 100%; 
+        }
+        .footer.copy {
+            font-size:14px;
+        }
+        .footer .contact-box {}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Bem-vindo ao !PESCA DO BAY!</h1>
+    </div>
+
+    <div class="nav">
+        <a href="#"><i class="fas fa-Inicio"></i> inicio</a>
+        <a href="#"><i class="fas fa-info-circle"></i> Sobre</a>
+        <a href="#"><i class="fas fa-invelope"></i> Contato</a>
+    </div>
+
+    <div class="content">
+        <h2>Modelos de vara</h2>
+
+        <p>. Vara para Molinete Tamba 80lb 1,83m 6'0 Maruri Ação Rápida</p>
+         <p>. Vara de Pesca Giratória Ultra-Leve de Ação Rápida com Fibra de Carbono Vazia</p>
+          <p>. Vara de pesca PROXPE Spinning, 4 seções de fibra de vidro, ação média, potência leve</p>
+          <p> .Varas de pesca telescópicas universais de fibra de carbono, ação e potência médias, pesca esportiva para todos os pescadores - Dobráveis, portáteis, vários tamanhos (3,6 metros - 7,2 metros)
+          <p>
+
+
+
+
+
+
+
+
+
+          </p>
+
+
+        
+        
+     
+    <img src=  "vara21.jpg" alt="Descrição da imagem" width="275">
+        
+
+    <img src="vara 3.webp" alt="Descrição da imagem" width="275">
+        
+        
+    <img src=  "vara 2.webp" alt="Descrição da imagem" width="275">
+
+
+    <img src=  "vara4.webp" alt="Descrição da imagem" width="275">
+        
+    
+    <img src=  "vara5.webp" alt="Descrição da imagem" width="275">
+        
+     
+    <img src=  "vara20.jpg" alt="Descrição da imagem" width="275">   
+    
+
+    <img src="vara7.jpg" alt="Descrição da imagem" width="275">
+
+        
+    <img src="vara8.jpg" alt="Descrição da imagem" width="275">
+
+
+    <img src="vara9.webp" alt="Descrição da imagem" width="275">
+
+
+    <img src="vara10.jpg" alt="Descrição da imagem" width="275">
+        
+        
+        
+        
+      <style type="text/css">
+        .container {
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #FFA500;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+    .box {
+        width: 500px;
+        height: 200 px;
+        margin:50px;
+        display: inline-block;
+        background-color: #FFA500;
+        color: white;
+        line-height: 300px;
+        text-align: center;
+
+        /*flexcontainer*/
+        .flex-item {
+            display: flex;
+            justify-content: sapace-between; /* distribui
+            igualmente */
+            background-color: #FF8C00;
+            padding: 10px;
+
+
+    }
+     .flex-item {
+        background-color: #FF8C00;
+        color: white;
+        padding: 20px;
+        text-aling: center;
+        flex: 1; /*força os itens aumentarem igualmente*/
+        margin : 5px
+        /*grid*/
+        .grid-item {
+            display: inline-grid;
+            grid-template-colums: #repeat(2,1fr);
+            gap: 10px;
+            background-color:#FF8C00;
+            padding: 10px;
+
+     }
+
+
+      .grid-item {
+        backgroun-color:    #FFA500;
+      color: white;
+      padding: 20px;
+      text-aling: center;
+
+     }
+
+    </style>
+    <body>
+    <div class="container">
+        <div class="box"><img src="pesca1.jpg" alt="Descrição da imagem" width="800"></div>
+        <div class="box"><img src="pesca2.jpg" alt="Descrição da imagem" width="800"></div></div>
+        <div class="box"><img src="pesca3.jpg" alt="Descrição da imagem" width="800"></div></div>
+    </div>
+
+
+    
+
+       
+            <video width="300" controls>
+                <source src="video1.html.mp4" type="video/mp4">
+            </video>
+            <video width="300" controls>
+                <source src="video3.html.mp4" type="video/mp4">
+            </video>
+            <video width="300" controls>
+                <source src="video4.html.mp4" type="video/mp4">
+            </video>
+            <video width="300" controls>
+                <source src="video5.html.mp4" type="video/mp4">
+            </video>
+            <video width="300" controls>
+                <source src="video6.html.mp4" type="video/mp4">
+            </video>
+
+
+
+
+
+           
+            <button class="botton">Saiba mais </button>
+        
+        <!-- Sobre -->
+        <div id="sobre" class="section">
+            <h2>Sobre o Site</h2>
+            <p>
+                O site PESCA DO BAY
+                 PESCA DO BAY- Sua Fonte Completa Sobre Pescaria!
+Bem-vindo ao Pesca Total, o portal definitivo para os amantes da pescaria! Aqui você encontra tudo o que precisa para aprimorar sua experiência na pesca esportiva e recreativa.
+<p>
+🔹 Dicas e Técnicas – Aprenda os melhores truques para capturar diversas espécies de peixes, desde tilápias até os gigantes do mar.
+
+</p>
+
+<p>
+🔹 Equipamentos e Avaliações – Descubra as melhores varas, molinetes, iscas artificiais e acessórios recomendados por especialistas.
+</p>
+
+<p>
+🔹 Locais de Pesca – Encontre os melhores rios, lagos e pontos de pesca no Brasil e no mundo.
+
+</p>
+
+<p>
+🔹 Comunidade de Pescadores – Compartilhe experiências, relatos de pescaria e fotos de suas capturas com outros apaixonados pelo esporte.
+
+<p>
+
+Acesse nosso site e prepare-se para suas próximas aventuras de pesca! 🎣🐟
+            </p>
+            
+            
+
+        </div>
+        <!-- Sobre -->
+
+        <!-- Contato -->
+        <div id="contato" class="section h2">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para mais informações:</p>
+
+            <form class="contact-form">
+                <input type="text" name="nome" placeholder="Seu nome" required>
+                <input type="email" name="email" placeholder="Seu email" required>
+                <textarea placeholder="Sua mensagem" rows="5" required></textarea>
+                <button type="submit">Enviar mensagem</button>
+            </form>
+        
+        <!-- Contato -->
+
+        <!-- Info -->
+        <div class="contact-info">
+            <p><i class="fas fa-envelope"> Email: pescadobay@gmail.com.br </i></p>
+                <p><i class="fas fa-phone"> Fone:(49) 9192-2949 </i></p>
+                    
+        </div>
+        <!-- Info -->
+        </div>
+        
+        </div>
+        <div class="footer">
+            <div class="copy">
+            &copy; 2025 - Pesca do BAY</p>
+        </div>
+    
+</body>
+</html>
+        
